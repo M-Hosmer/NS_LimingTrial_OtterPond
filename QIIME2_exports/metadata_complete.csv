@@ -1,0 +1,158 @@
+﻿SampleID,Type,Location ,Treatment ,Location_Treatment,Soil_Horizon,Treatment_Location_Horizon,Treatment_Horizon,Sample_within_site,Season
+DNA1,Water,Downstream_noplume,,NA,NA,NA,NA,NA,Fall
+DNA2,Water,Downstream_plume,,NA,NA,NA,NA,NA,Fall
+DNA3,Water,Upstream,,NA,NA,NA,NA,NA,Fall
+DNA4,Water,Downstream_4K,,NA,NA,NA,NA,NA,Fall
+DNA5,Water,NA,NA,NA,NA,NA,NA,NA,Fall
+DNA6,Lime,NA,NA,NA,NA,NA,NA,NA,Fall
+DNA7,Soil,Site3,Control,Control_Site3,Upper Forest Floor,Control_Site3_Upper Forest Floor,Control Upper Forest Floor,Sample1,Fall
+DNA8,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+DNA9,Soil,Site3,Control,Control_Site3,Upper B Horizon,Control_Site3_Upper B Horizon,Control Upper B Horizon,Sample1,Fall
+DNA10,Soil,Site4,Control,Control_Site4,Upper Forest Floor,Control_Site4_Upper Forest Floor,Control Upper Forest Floor,Sample2,Fall
+DNA11,Soil,Site4,Control,Control_Site4,Lower Forest Floor ,Control_Site4_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Fall
+DNA12,Soil,Site4,Control,Control_Site4,Upper B Horizon,Control_Site4_Upper B Horizon,Control Upper B Horizon,Sample2,Fall
+DNA13,Soil,Site4,Treatment ,Treatment_Site4,Upper Forest Floor,Treatment_Site4_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Fall
+DNA14,Soil,Site4,Treatment ,Treatment_Site4,Lower Forest Floor ,Treatment_Site4_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Fall
+DNA15,Soil,Site4,Treatment ,Treatment_Site4,Upper B Horizon,Treatment_Site4_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Fall
+DNA16,Soil,Site4,Treatment ,Treatment_Site5,Upper Forest Floor,Treatment_Site5_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Fall
+DNA17,Soil,Site4,Treatment ,Treatment_Site5,Lower Forest Floor ,Treatment_Site5_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Fall
+DNA18,Soil,Site4,Treatment ,Treatment_Site5,Upper B Horizon,Treatment_Site5_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Fall
+DNA19,Soil,Site2,Control,Control_Site2,Upper Forest Floor,Control_Site2_Upper Forest Floor,Control Upper Forest Floor,Sample2,Fall
+DNA20,Soil,Site2,Control,Control_Site2,Lower Forest Floor ,Control_Site2_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Fall
+DNA21,Soil,Site2,Control,Control_Site2,Upper B Horizon,Control_Site2_Upper B Horizon,Control Upper B Horizon,Sample2,Fall
+DNA22,Soil,Site4,Control,Control_Site4,Upper Forest Floor,Control_Site4_Upper Forest Floor,Control Upper Forest Floor,Sample1,Fall
+DNA23,Soil,Site4,Control,Control_Site4,Lower Forest Floor ,Control_Site4_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+DNA24,Soil,Site4,Control,Control_Site4,Upper B Horizon,Control_Site4_Upper B Horizon,Control Upper B Horizon,Sample1,Fall
+DNA25,Soil,Site2,Treatment ,Treatment_Site2,Upper Forest Floor,Treatment_Site2_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Fall
+DNA26,Soil,Site2,Treatment ,Treatment_Site2,Lower Forest Floor ,Treatment_Site2_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Fall
+DNA27,Soil,Site2,Treatment ,Treatment_Site2,Upper B Horizon,Treatment_Site2_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Fall
+DNA28,Soil,Site4,Treatment ,Treatment_Site4,Upper Forest Floor,Treatment_Site4_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Fall
+DNA29,Soil,Site4,Treatment ,Treatment_Site4,Lower Forest Floor ,Treatment_Site4_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Fall
+DNA30,Soil,Site4,Treatment ,Treatment_Site4,Upper B Horizon,Treatment_Site4_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Fall
+DNA31,Soil,Site1,Control,Control_Site1,Upper Forest Floor,Control_Site1_Upper Forest Floor,Control Upper Forest Floor,Sample1,Fall
+DNA32,Soil,Site1,Control,Control_Site1,Lower Forest Floor ,Control_Site1_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+DNA33,Soil,Site1,Control,Control_Site1,Upper B Horizon,Control_Site1_Upper B Horizon,Control Upper B Horizon,Sample1,Fall
+DNA34,Soil,Site3,Control,Control_Site3,Upper Forest Floor,Control_Site3_Upper Forest Floor,Control Upper Forest Floor,Sample2,Fall
+DNA35,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Fall
+DNA36,Soil,Site3,Control,Control_Site3,Upper B Horizon,Control_Site3_Upper B Horizon,Control Upper B Horizon,Sample2,Fall
+DNA37,Soil,Site1,Treatment ,Treatment_Site1,Upper Forest Floor,Treatment_Site1_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Fall
+DNA38,Soil,Site1,Treatment ,Treatment_Site1,Lower Forest Floor ,Treatment_Site1_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Fall
+DNA39,Soil,Site1,Treatment ,Treatment_Site1,Upper B Horizon,Treatment_Site1_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Fall
+DNA40,Soil,Site3,Treatment ,Treatment_Site3,Upper Forest Floor,Treatment_Site3_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Fall
+DNA41,Soil,Site3,Treatment ,Treatment_Site3,Lower Forest Floor ,Treatment_Site3_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Fall
+DNA42,Soil,Site3,Treatment ,Treatment_Site3,Upper B Horizon,Treatment_Site3_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Fall
+DNA43,Soil,Site1,Control,Control_Site1,Upper Forest Floor,Control_Site1_Upper Forest Floor,Control Upper Forest Floor,Sample2,Fall
+DNA44,Soil,Site1,Control,Control_Site1,Lower Forest Floor ,Control_Site1_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Fall
+DNA45,Soil,Site1,Control,Control_Site1,Upper B Horizon,Control_Site1_Upper B Horizon,Control Upper B Horizon,Sample2,Fall
+DNA46,Soil,Site5,Control,Control_Site5,Upper Forest Floor,Control_Site5_Upper Forest Floor,Control Upper Forest Floor,Sample1,Fall
+DNA47,Soil,Site5,Control,Control_Site5,Lower Forest Floor ,Control_Site5_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+DNA48,Soil,Site5,Control,Control_Site5,Upper B Horizon,Control_Site5_Upper B Horizon,Control Upper B Horizon,Sample1,Fall
+DNA49,Soil,Site5,Control,Control_Site5,Upper Forest Floor,Control_Site5_Upper Forest Floor,Control Upper Forest Floor,Sample2,Fall
+DNA50,Soil,Site5,Control,Control_Site5,Lower Forest Floor ,Control_Site5_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Fall
+DNA51,Soil,Site5,Control,Control_Site5,Upper B Horizon,Control_Site5_Upper B Horizon,Control Upper B Horizon,Sample2,Fall
+DNA52,Soil,Site5,Treatment ,Treatment_Site5,Upper Forest Floor,Treatment_Site5_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Fall
+DNA53,Soil,Site5,Treatment ,Treatment_Site5,Lower Forest Floor ,Treatment_Site5_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Fall
+DNA54,Soil,Site5,Treatment ,Treatment_Site5,Upper B Horizon,Treatment_Site5_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Fall
+DNA55,Soil,Site3,Treatment ,Treatment_Site3,Upper Forest Floor,Treatment_Site3_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Fall
+DNA56,Soil,Site3,Treatment ,Treatment_Site3,Lower Forest Floor ,Treatment_Site3_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Fall
+DNA57,Soil,Site3,Treatment ,Treatment_Site3,Upper B Horizon,Treatment_Site3_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Fall
+DNA58,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+b2_DNA1,Soil,Site2,Control,Control_Site2,Upper Forest Floor,Control_Site2_Upper Forest Floor,Control Upper Forest Floor,Sample1,Fall
+b2_DNA2,Soil,Site2,Control,Control_Site2,Lower Forest Floor ,Control_Site2_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Fall
+b2_DNA3,Soil,Site2,Control,Control_Site2,Upper B Horizon,Control_Site2_Upper B Horizon,Control Upper B Horizon,Sample1,Fall
+b2_DNA4,Soil,Site1,Treatment ,Treatment_Site1,Upper Forest Floor,Treatment_Site1_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Fall
+b2_DNA5,Soil,Site1,Treatment ,Treatment_Site1,Lower Forest Floor ,Treatment_Site1_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Fall
+b2_DNA6,Soil,Site1,Treatment ,Treatment_Site1,Upper B Horizon,Treatment_Site1_Upper Forest Floor,Treatment  Upper B Horizon,Sample1,Fall
+b2_DNA7,Soil,Site2,Treatment ,Treatment_Site2,Upper Forest Floor,Treatment_Site2_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Fall
+b2_DNA8,Soil,Site2,Treatment ,Treatment_Site2,Lower Forest Floor ,Treatment_Site2_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Fall
+b2_DNA9,Soil,Site2,Treatment ,Treatment_Site2,Upper B Horizon,Treatment_Site2_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Fall
+DNA_2_1,Soil,Site1,Treatment ,Treatment_Site1,Upper Forest Floor,Treatment_Site1_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Summer
+DNA_2_2,Soil,Site1,Treatment ,Treatment_Site1,Lower Forest Floor ,Treatment_Site1_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Summer
+DNA_2_3,Soil,Site1,Treatment ,Treatment_Site1,Upper B Horizon,Treatment_Site1_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Summer
+DNA_2_4,Soil,Site1,Treatment ,Treatment_Site1,Upper Forest Floor,Treatment_Site1_Upper Forest Floor,Treatment  Upper Forest Floor,Sample3,Summer
+DNA_2_5,Soil,Site1,Treatment ,Treatment_Site1,Lower Forest Floor ,Treatment_Site1_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample3,Summer
+DNA_2_6,Soil,Site1,Treatment ,Treatment_Site1,Upper B Horizon,Treatment_Site1_Upper B Horizon,Treatment  Upper B Horizon,Sample3,Summer
+DNA_2_7,Soil,Site2,Treatment ,Treatment_Site2,Upper Forest Floor,Treatment_Site2_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Summer
+DNA_2_8,Soil,Site2,Treatment ,Treatment_Site2,Lower Forest Floor ,Treatment_Site2_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Summer
+DNA_2_9,Soil,Site2,Treatment ,Treatment_Site2,Upper B Horizon,Treatment_Site2_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Summer
+DNA_2_10,Soil,Site2,Treatment ,Treatment_Site2,Upper Forest Floor,Treatment_Site2_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Summer
+DNA_2_11,Soil,Site2,Treatment ,Treatment_Site2,Lower Forest Floor ,Treatment_Site2_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Summer
+DNA_2_12,Soil,Site2,Treatment ,Treatment_Site2,Upper B Horizon,Treatment_Site2_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Summer
+DNA_2_13,Soil,Site3,Treatment ,Treatment_Site3,Upper Forest Floor,Treatment_Site3_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Summer
+DNA_2_14,Soil,Site3,Treatment ,Treatment_Site3,Lower Forest Floor ,Treatment_Site3_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Summer
+DNA_2_15,Soil,Site3,Treatment ,Treatment_Site3,Upper B Horizon,Treatment_Site3_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Summer
+DNA_2_16,Soil,Site3,Treatment ,Treatment_Site3,Upper Forest Floor,Treatment_Site3_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Summer
+DNA_2_17,Soil,Site3,Treatment ,Treatment_Site3,Lower Forest Floor ,Treatment_Site3_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Summer
+DNA_2_18,Soil,Site3,Treatment ,Treatment_Site3,Upper B Horizon,Treatment_Site3_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Summer
+DNA_2_19,Soil,Site4,Treatment ,Treatment_Site4,Upper Forest Floor,Treatment_Site4_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Summer
+DNA_2_20,Soil,Site4,Treatment ,Treatment_Site4,Lower Forest Floor ,Treatment_Site4_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Summer
+DNA_2_21,Soil,Site4,Treatment ,Treatment_Site4,Upper B Horizon,Treatment_Site4_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Summer
+DNA_2_22,Soil,Site4,Treatment ,Treatment_Site4,Upper Forest Floor,Treatment_Site4_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Summer
+DNA_2_23,Soil,Site4,Treatment ,Treatment_Site4,Lower Forest Floor ,Treatment_Site4_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Summer
+DNA_2_24,Soil,Site4,Treatment ,Treatment_Site4,Upper B Horizon,Treatment_Site4_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Summer
+DNA_2_25,Soil,Site5,Treatment ,Treatment_Site5,Upper Forest Floor,Treatment_Site5_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Summer
+DNA_2_26,Soil,Site5,Treatment ,Treatment_Site5,Lower Forest Floor ,Treatment_Site5_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Summer
+DNA_2_27,Soil,Site5,Treatment ,Treatment_Site5,Upper B Horizon,Treatment_Site5_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Summer
+DNA_2_28,Soil,Site5,Treatment ,Treatment_Site5,Upper Forest Floor,Treatment_Site5_Upper Forest Floor,Treatment  Upper Forest Floor,Sample2,Summer
+DNA_2_29,Soil,Site5,Treatment ,Treatment_Site5,Lower Forest Floor ,Treatment_Site5_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample2,Summer
+DNA_2_30,Soil,Site5,Treatment ,Treatment_Site5,Upper B Horizon,Treatment_Site5_Upper B Horizon,Treatment  Upper B Horizon,Sample2,Summer
+DNA_2_31,Soil,Site1,Control,Control_Site1,Upper Forest Floor,Control_Site1_Upper Forest Floor,Control Upper Forest Floor,Sample1,Summer
+DNA_2_32,Soil,Site1,Control,Control_Site1,Lower Forest Floor ,Control_Site1_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Summer
+DNA_2_33,Soil,Site1,Control,Control_Site1,Upper B Horizon,Control_Site1_Upper B Horizon,Control Upper B Horizon,Sample1,Summer
+DNA_2_34,Soil,Site1,Control,Control_Site1,Upper Forest Floor,Control_Site1_Upper Forest Floor,Control Upper Forest Floor,Sample2,Summer
+DNA_2_35,Soil,Site1,Control,Control_Site1,Lower Forest Floor ,Control_Site1_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Summer
+DNA_2_36,Soil,Site1,Control,Control_Site1,Upper B Horizon,Control_Site1_Upper B Horizon,Control Upper B Horizon,Sample2,Summer
+DNA_2_37,Soil,Site2,Control,Control_Site2,Upper Forest Floor,Control_Site2_Upper Forest Floor,Control Upper Forest Floor,Sample1,Summer
+DNA_2_38,Soil,Site2,Control,Control_Site2,Lower Forest Floor ,Control_Site2_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Summer
+DNA_2_39,Soil,Site2,Control,Control_Site2,Upper B Horizon,Control_Site2_Upper B Horizon,Control Upper B Horizon,Sample1,Summer
+DNA_2_40,Soil,Site2,Control,Control_Site2,Upper Forest Floor,Control_Site2_Upper Forest Floor,Control Upper Forest Floor,Sample2,Summer
+DNA_2_41,Soil,Site2,Control,Control_Site2,Lower Forest Floor ,Control_Site2_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Summer
+DNA_2_42,Soil,Site2,Control,Control_Site2,Upper B Horizon,Control_Site2_Upper B Horizon,Control Upper B Horizon,Sample2,Summer
+DNA_2_43,Soil,Site2,Control,Control_Site2,Upper Forest Floor,Control_Site2_Upper Forest Floor,Control Upper Forest Floor,Sample3,Summer
+DNA_2_44,Soil,Site2,Control,Control_Site2,Lower Forest Floor ,Control_Site2_Lower Forest Floor,Control Lower Forest Floor ,Sample3,Summer
+DNA_2_45,Soil,Site2,Control,Control_Site2,Upper B Horizon,Control_Site2_Upper B Horizon,Control Upper B Horizon,Sample3,Summer
+DNA_2_46,Soil,Site3,Control,Control_Site3,Upper Forest Floor,Control_Site3_Upper Forest Floor,Control Upper Forest Floor,Sample1,Summer
+DNA_2_47,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Summer
+DNA_2_48,Soil,Site3,Control,Control_Site3,Upper B Horizon,Control_Site3_Upper B Horizon,Control Upper B Horizon,Sample1,Summer
+DNA_2_49,Soil,Site3,Control,Control_Site3,Upper Forest Floor,Control_Site3_Upper Forest Floor,Control Upper Forest Floor,Sample2,Summer
+DNA_2_50,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Summer
+DNA_2_51,Soil,Site3,Control,Control_Site3,Upper B Horizon,Control_Site3_Upper B Horizon,Control Upper B Horizon,Sample2,Summer
+DNA_2_52,Soil,Site3,Control,Control_Site3,Upper Forest Floor,Control_Site3_Upper Forest Floor,Control Upper Forest Floor,Sample3,Summer
+DNA_2_53,Soil,Site3,Control,Control_Site3,Lower Forest Floor ,Control_Site3_Lower Forest Floor,Control Lower Forest Floor ,Sample3,Summer
+DNA_2_54,Soil,Site3,Control,Control_Site3,Upper B Horizon,Control_Site3_Upper B Horizon,Control Upper B Horizon,Sample3,Summer
+DNA_2_55,Soil,Site4,Control,Control_Site4,Upper Forest Floor,Control_Site4_Upper Forest Floor,Control Upper Forest Floor,Sample1,Summer
+DNA_2_56,Soil,Site4,Control,Control_Site4,Lower Forest Floor ,Control_Site4_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Summer
+DNA_2_57,Soil,Site4,Control,Control_Site4,Upper B Horizon,Control_Site4_Upper B Horizon,Control Upper B Horizon,Sample1,Summer
+DNA_2_58,Soil,Site4,Control,Control_Site4,Upper Forest Floor,Control_Site4_Upper Forest Floor,Control Upper Forest Floor,Sample2,Summer
+DNA_2_59,Soil,Site4,Control,Control_Site4,Lower Forest Floor ,Control_Site4_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Summer
+DNA_2_60,Soil,Site4,Control,Control_Site4,Upper B Horizon,Control_Site4_Upper B Horizon,Control Upper B Horizon,Sample2,Summer
+DNA_2_61,Soil,Site4,Control,Control_Site4,Upper Forest Floor,Control_Site4_Upper Forest Floor,Control Upper Forest Floor,Sample3,Summer
+DNA_2_62,Soil,Site4,Control,Control_Site4,Lower Forest Floor ,Control_Site4_Lower Forest Floor,Control Lower Forest Floor ,Sample3,Summer
+DNA_2_63,Soil,Site4,Control,Control_Site4,Upper B Horizon,Control_Site4_Upper B Horizon,Control Upper B Horizon,Sample3,Summer
+DNA_2_64,Soil,Site5,Control,Control_Site5,Upper Forest Floor,Control_Site5_Upper Forest Floor,Control Upper Forest Floor,Sample1,Summer
+DNA_2_65,Soil,Site5,Control,Control_Site5,Lower Forest Floor ,Control_Site5_Lower Forest Floor,Control Lower Forest Floor ,Sample1,Summer
+DNA_2_66,Soil,Site5,Control,Control_Site5,Upper B Horizon,Control_Site5_Upper B Horizon,Control Upper B Horizon,Sample1,Summer
+DNA_2_67,Soil,Site5,Control,Control_Site5,Upper Forest Floor,Control_Site5_Upper Forest Floor,Control Upper Forest Floor,Sample2,Summer
+DNA_2_68,Soil,Site5,Control,Control_Site5,Lower Forest Floor ,Control_Site5_Lower Forest Floor,Control Lower Forest Floor ,Sample2,Summer
+DNA_2_69,Soil,Site5,Control,Control_Site5,Upper B Horizon,Control_Site5_Upper B Horizon,Control Upper B Horizon,Sample2,Summer
+DNA_2_70,Soil,Site5,Control,Control_Site5,Upper Forest Floor,Control_Site5_Upper Forest Floor,Control Upper Forest Floor,Sample3,Summer
+DNA_2_71,Soil,Site5,Control,Control_Site5,Lower Forest Floor ,Control_Site5_Lower Forest Floor,Control Lower Forest Floor ,Sample3,Summer
+DNA_2_72,Soil,Site5,Control,Control_Site5,Upper B Horizon,Control_Site5_Upper B Horizon,Control Upper B Horizon,Sample3,Summer
+DNA_2_73,Soil,Site1,Control,Control_Site1,Upper Forest Floor,Control_Site1_Upper Forest Floor,Control Upper Forest Floor,Sample3,Summer
+DNA_2_74,Soil,Site1,Control,Control_Site1,Lower Forest Floor ,Control_Site1_Lower Forest Floor,Control Lower Forest Floor ,Sample3,Summer
+DNA_2_75,Soil,Site1,Control,Control_Site1,Upper B Horizon,Control_Site1_Upper B Horizon,Control Upper B Horizon,Sample3,Summer
+DNA_2_76,Soil,Site1,Treatment ,Treatment_Site1,Upper Forest Floor,Treatment_Site1_Upper Forest Floor,Treatment  Upper Forest Floor,Sample1,Summer
+DNA_2_77,Soil,Site1,Treatment ,Treatment_Site1,Lower Forest Floor ,Treatment_Site1_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample1,Summer
+DNA_2_78,Soil,Site1,Treatment ,Treatment_Site1,Upper B Horizon,Treatment_Site1_Upper B Horizon,Treatment  Upper B Horizon,Sample1,Summer
+DNA_2_79,Soil,Site2,Treatment ,Treatment_Site2,Upper Forest Floor,Treatment_Site2_Upper Forest Floor,Treatment  Upper Forest Floor,Sample3,Summer
+DNA_2_80,Soil,Site2,Treatment ,Treatment_Site2,Lower Forest Floor ,Treatment_Site2_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample3,Summer
+DNA_2_81,Soil,Site2,Treatment ,Treatment_Site2,Upper B Horizon,Treatment_Site2_Upper B Horizon,Treatment  Upper B Horizon,Sample3,Summer
+DNA_2_82,Soil,Site3,Treatment ,Treatment_Site3,Upper Forest Floor,Treatment_Site3_Upper Forest Floor,Treatment  Upper Forest Floor,Sample3,Summer
+DNA_2_83,Soil,Site3,Treatment ,Treatment_Site3,Lower Forest Floor ,Treatment_Site3_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample3,Summer
+DNA_2_84,Soil,Site3,Treatment ,Treatment_Site3,Upper B Horizon,Treatment_Site3_Upper B Horizon,Treatment  Upper B Horizon,Sample3,Summer
+DNA_2_85,Soil,Site4,Treatment ,Treatment_Site4,Upper Forest Floor,Treatment_Site4_Upper Forest Floor,Treatment  Upper Forest Floor,Sample3,Summer
+DNA_2_86,Soil,Site4,Treatment ,Treatment_Site4,Lower Forest Floor ,Treatment_Site4_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample3,Summer
+DNA_2_87,Soil,Site4,Treatment ,Treatment_Site4,Upper B Horizon,Treatment_Site4_Upper B Horizon,Treatment  Upper B Horizon,Sample3,Summer
+DNA_2_88,Soil,Site5,Treatment ,Treatment_Site5,Upper Forest Floor,Treatment_Site5_Upper Forest Floor,Treatment  Upper Forest Floor,Sample3,Summer
+DNA_2_89,Soil,Site5,Treatment ,Treatment_Site5,Lower Forest Floor ,Treatment_Site5_Lower Forest Floor,Treatment  Lower Forest Floor ,Sample3,Summer
+DNA_2_90,Soil,Site5,Treatment ,Treatment_Site5,Upper B Horizon,Treatment_Site5_Upper B Horizon,Treatment  Upper B Horizon,Sample3,Summer
